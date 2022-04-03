@@ -1,0 +1,37 @@
+{
+  "student": [
+    {
+      "firstname": "Vijay",
+      "lastname": "Pawar",
+      "gender": "",
+      "mobile": "7768060140",
+      "email": "vijay@gmail.com",
+      "address": "Rastapur",
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "id": 1
+    },
+    {
+      "firstname": "Pawar",
+      "lastname": "Jyoti",
+      "gender": "",
+      "mobile": "9838978979",
+      "email": "pawar@gmail.com",
+      "address": "Rastapur",
+      "city": "Ahmednagar",
+      "state": "MH",
+      "id": 2
+    },
+    {
+      "firstname": "TEST",
+      "lastname": "TEST1",
+      "gender": "",
+      "mobile": "7768060240",
+      "email": "test@gmail.com",
+      "address": "Pune",
+      "city": "Pune",
+      "state": "MH",
+      "id": 3
+    }
+  ]
+}
